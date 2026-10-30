@@ -1,0 +1,53 @@
+[
+  {
+    "id": "merch-spray",
+    "name": "【星雲定心】宇宙流・空間與身心氣場淨化噴霧",
+    "price": 199,
+    "originalPrice": 250,
+    "status": "預購登記中",
+    "statusType": "preorder",
+    "badge": "身心安定",
+    "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=800&q=80",
+    "description": "讓植物香氛撫平一整天的情緒雜音。無論是錄音前的沉澱、深夜睡前的放鬆，或在緊繃的工作空間輕輕噴灑，讓呼吸回到自然流動的節奏。",
+    "specs": ["50ml 便攜噴霧瓶 (天然草本複方精華)"],
+    "details": [
+      "容量：50ml 細緻霧化噴頭",
+      "成分：嚴選天然草本精油與純露調和，溫和不刺激",
+      "使用方式：適量噴灑於空氣空間、工作桌周圍或枕巾角落"
+    ]
+  },
+  {
+    "id": "merch-salt",
+    "name": "【引力歸零】宇宙流・能量釋放與深層淨化鹽",
+    "price": 89,
+    "originalPrice": 120,
+    "status": "預購登記中",
+    "statusType": "preorder",
+    "badge": "能量清理",
+    "image": "/images/purification-bath-salts.jpg",
+    "description": "結晶自大地的礦物晶鹽，盛載沉穩而安定的地球引力。泡腳放鬆、沐浴調和，或盛於小皿放置房間角落，帶走身體的沉重與疲憊。",
+    "specs": ["100g 隨行密封保鮮袋裝"],
+    "details": [
+      "規格：100g 夾鏈保鮮密封袋",
+      "原料：100% 天然純淨晶礦鹽",
+      "用途：泡腳、沐浴調和、或作為玄關與床頭空間淨化皿使用"
+    ]
+  },
+  {
+    "id": "merch-stickers",
+    "name": "【星軌箴言】宇宙流・心流覺察金句貼紙 (6入限定組)",
+    "price": 159,
+    "originalPrice": 200,
+    "status": "預購登記中",
+    "statusType": "preorder",
+    "badge": "溫柔提醒",
+    "image": "https://images.unsplash.com/photo-1589384267710-7a170981ca78?auto=format&fit=crop&w=800&q=80",
+    "description": "精選 Roger 節目中最觸動靈魂的 6 句箴言。貼在筆電、水壺、手機或手帳上，當生活陷入焦慮時，抬起頭就能看見宇宙給你的溫柔提醒。",
+    "specs": ["6入全套精緻典藏組"],
+    "details": [
+      "規格：6 款不同金句貼紙 / 每張約 5~7cm",
+      "材質：霧面防潑水 PVC + 細緻局部燙銀工藝",
+      "金句精選：『成為完整的自己』、『孤獨是宇宙給的禮物』等 6 款"
+    ]
+  }
+]
